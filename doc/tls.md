@@ -109,7 +109,7 @@ If the client works on an older version of Windows, make sure to activate TLS 1.
 
 For troubleshooting, Windows Events from `Eventlog-ForwardingPlugin` (Operational) and `Windows Remote Management` (Analytics, needs to be enabled in the View drop-down) can be of great help.
 
-## Server configuration
+## Server configuration
 
 To configure OpenWEC on a machine named `wec.winserver.local`, the minimal options to configure in `/etc/openwec.conf.toml` are as follows:
 
